@@ -27,7 +27,7 @@ Consultar la configuración de red vital y determinar los requisitos básicos pa
 Usuarios del sistema
 Gestión de permisos y propiedad de archivos
 
-![profile-readme-example](/NDG%20Linux%20Unhatc-certificate.pdf)
+![linux](/NDG%20Linux%20Unhatc-certificate.pdf)
 
 ### :keyboard: Activity: Your first branch
 
