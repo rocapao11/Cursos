@@ -29,4 +29,5 @@ Gestión de permisos y propiedad de archivos
 
 ![linux](/NDG-Linux-Unhatc-certificate.pdf)
 
-### curso 2:
+## curso 2: SQL
+![linux](/Introduction-to-Databases-with-SQL.png)
