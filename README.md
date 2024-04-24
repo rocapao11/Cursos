@@ -29,4 +29,4 @@ Gestión de permisos y propiedad de archivos
 
 ![linux](/NDG-Linux-Unhatc-certificate.pdf)
 
-### :keyboard: Activity: Your first branch
+### curso 2:
