@@ -1,9 +1,6 @@
-<header>
 # Cursos completados 
 
 _Es una evidencia de los cursos que se han acompletado de distintas paginas de logica y programación._
-
-</header>
 
 ## curso 1: Laravel 10 desde cero
 
@@ -73,6 +70,7 @@ _Cisco Virtual Academy_
 ![linux](/Javascript-essentials-1.png)
 
 ## minicurso: Git
+
 hoja de referencia: training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf
 
 ## curso 5: vue 3 con pinia
@@ -86,6 +84,7 @@ proyecto 3 Administrador de lista de Animes
 trabajamos en proyecto front con vistas de PAYMENTS
 
 ## curso 6: Docker composer
+
 _Udemy_
 **Página**: https://www.udemy.com/course/docker-de-principiante-a-experto
 
