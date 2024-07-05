@@ -78,8 +78,8 @@ hoja de referencia: training.github.com/downloads/es_ES/github-git-cheat-sheet.p
 _Udemy_
 **Página**: http://www.udemy.com/course/vuejs-la-guia-completa-composition-pinia-mevn-creando-proyectos-reales
 
-proyecto 2 GuitarLA-Carrito de compras
-proyecto 3 Administrador de lista de Animes
+proyecto 2 GuitarLA-Carrito de compras.
+proyecto 3 Administrador de lista de Animes.
 
 trabajamos en proyecto front con vistas de PAYMENTS
 
