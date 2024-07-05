@@ -98,6 +98,9 @@ Curso de Introducción al Testing con JavaScript
 ## cursos rapidos: node.js, apis, repaso js
 
 **Vscode** hoja de referencias: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+**POO** Introducción a la Programación Orientada a Objetos **pagina** https://app.ed.team/
+
+![linux](/certificad-curso-poo.png)
 
 ## curso 8: introduccion a TypeScript
 
