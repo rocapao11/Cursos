@@ -37,7 +37,7 @@ Consultar la configuración de red vital y determinar los requisitos básicos pa
 Usuarios del sistema
 Gestión de permisos y propiedad de archivos
 
-![linux](/NDG-Linux-Unhatc-certificate.pdf)
+![linux](/NDG-Linux-Unhatc-certificate.png)
 
 
 ## Curso 3: introduccion a bases de datos con SQL 
