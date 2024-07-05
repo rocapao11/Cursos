@@ -95,9 +95,22 @@ _Platzi_
 
 Curso de Introducción al Testing con JavaScript
 
-## cursos rapidos: node.js, api, repaso js, Vscode, html
+## cursos rapidos: node.js, apis, repaso js
+
+**Vscode** hoja de referencias: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
 
 ## curso 8: introduccion a TypeScript
-_Udemy_
-**Página**:
+
+_Platzi_
+**Página**: https://platzi.com/cursos/typescript/
+
+## curso 9: Scrum Fundamentals Certified | Fourth Edition
+
+_VMEdu_
+**Página**: https://online.vmedu.com/Courses/Videos
+
+## curso 10: Angular
+
+_..._
+**Página**: 
 
