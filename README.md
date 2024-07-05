@@ -87,6 +87,7 @@ trabajamos en proyecto front con vistas de PAYMENTS
 
 _Udemy_
 **Página**: https://www.udemy.com/course/docker-de-principiante-a-experto
+ hoja de referencias: https://media.licdn.com/dms/image/D4D22AQHv5uXWV_YE3Q/feedshare-shrink_1280/0/1693636042462?e=1721865600&v=beta&t=w5B9d-IRxem88wsr-u0vYmBAAzegigUvPsrlWEkuwDs
 
 ## curso 7: Test para back
 
